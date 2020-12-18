@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="toolbar_height">160dp</dimen>
+    <dimen name="default_screen_space">30dp</dimen>
+    <dimen name="space_medium">16dp</dimen>
+    <dimen name="space_general">8dp</dimen>
+    <dimen name="space_large">20dp</dimen>
+    <dimen name="space_extra_large">30dp</dimen>
+    <dimen name="space_double_large">40dp</dimen>
+    <dimen name="widget_height">45dp</dimen>
+    <dimen name="list_item_height">110dp</dimen>
+
+
+    <dimen name="text_title_size">32sp</dimen>
+    <dimen name="text_subtitle_size">22sp</dimen>
+    <dimen name="text_large_size">18sp</dimen>
+    <dimen name="text_normal_size">14sp</dimen>
+    <dimen name="text_small_size">12sp</dimen>
+</resources>

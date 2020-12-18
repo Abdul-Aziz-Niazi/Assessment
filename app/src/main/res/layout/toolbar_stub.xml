@@ -1,0 +1,32 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/toolbar"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/toolbar_height"
+    android:background="@color/red"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/toolbarTitle"
+        style="@style/textStyleTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/text_is_test_project" />
+
+    <TextView
+        android:id="@+id/subtitle"
+        style="@style/textStyleSubtitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/text_welcome"
+        android:visibility="gone" />
+
+    <TextView
+        android:id="@+id/name"
+        style="@style/textStyleSubtitleBlack"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/text_is_test_project"
+        android:visibility="gone" />
+
+</LinearLayout>

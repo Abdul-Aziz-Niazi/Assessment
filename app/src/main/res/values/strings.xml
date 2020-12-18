@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Assessment</string>
+    <string name="text_is_test_project">IS Test Project</string>
+    <string name="text_log_in">Log in</string>
+    <string name="text_forgot_password">Forgot Password?</string>
+    <string name="text_view_item_detail">View Item Details</string>
+    <string name="text_welcome">Welcome!</string>
+    <string name="text_details">Details of listed items!</string>
+
+    <string name="hint_username">User Name</string>
+    <string name="hint_password">Password</string>
+
+    <string name="error_username_empty">Please enter username</string>
+    <string name="error_password_empty">Please enter password</string>
+</resources>
